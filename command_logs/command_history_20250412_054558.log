@@ -1,0 +1,13 @@
+[2025-04-12 05:45:58] [/workspaces/In-Class-Exercise-1] source .devcontainer/shell.sh
+[2025-04-12 06:05:28] [/workspaces/In-Class-Exercise-1] check-progress
+[2025-04-12 06:05:39] [/workspaces/In-Class-Exercise-1] ls - a /
+[2025-04-12 06:05:44] [/workspaces/In-Class-Exercise-1] ls --all /
+[2025-04-12 06:07:32] [/workspaces/In-Class-Exercise-1] man cp
+[2025-04-12 06:07:47] [/workspaces/In-Class-Exercise-1] apropos password
+[2025-04-12 06:07:53] [/workspaces/In-Class-Exercise-1] apropos compress
+[2025-04-12 06:09:34] [/workspaces/In-Class-Exercise-1] echo $HOME
+[2025-04-12 06:09:44] [/workspaces/In-Class-Exercise-1] echo $PATH
+[2025-04-12 06:09:47] [/workspaces/In-Class-Exercise-1] echo $PATH
+[2025-04-12 06:10:06] [/workspaces/In-Class-Exercise-1] date
+[2025-04-12 06:10:09] [/workspaces/In-Class-Exercise-1] date
+[2025-04-12 06:10:23] [/workspaces/In-Class-Exercise-1] man cp
